@@ -127,8 +127,6 @@ const HomeScreen = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome lur...</Text>
-
       <View style={styles.searchContainer}>
         <TextInput
           style={styles.searchInput}
